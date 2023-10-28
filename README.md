@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/zainali954/QR-code-component](https://github.com/zainali954/QR-code-component)
+- Solution URL: [https://github.com/zainali954/QR-code-component-frontend](https://github.com/zainali954/QR-code-component-frontend)
 - Live Site URL: [https://zainali954.github.io/Results-summary-component/](https://zainali954.github.io/Results-summary-component/)
 
 ## My process
